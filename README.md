@@ -5,5 +5,7 @@ This project is designed to showcase my skills and knowledge as a SOC Analyst. I
 * C2 Payloads Detection
 * SIEM Lab
 * Network Traffic Analysis
+* Social Engineering Attack
+  
   
 
