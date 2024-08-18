@@ -6,6 +6,7 @@ This project is designed to showcase my skills and knowledge as a SOC Analyst. I
 * SIEM Lab
 * Network Traffic Analysis
 * Social Engineering Attack
+* Protecting Shadow Files from Ransomware
   
   
 
